@@ -1,0 +1,10 @@
+[package]
+name = "structured"
+version = "0.0.1"
+authors = ["thepoetdj <thepoetdj@gmail.com>"]
+edition = "2024"
+rust-version = "1.85.0"
+description = "Revisiting data structures with Rust."
+repository = "https://github.com/thepoetdj/structured"
+license = "MIT"
+keywords = ["data-structures", "algorithms"]
