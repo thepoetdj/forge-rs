@@ -1,10 +1,10 @@
 [package]
-name = "structured"
+name = "forge"
 version = "0.0.1"
 authors = ["thepoetdj <thepoetdj@gmail.com>"]
 edition = "2024"
 rust-version = "1.85.0"
-description = "Revisiting data structures with Rust."
-repository = "https://github.com/thepoetdj/structured"
+description = "Revisiting data structures in Rust."
+repository = "https://github.com/thepoetdj/forge-rs"
 license = "MIT"
 keywords = ["data-structures", "algorithms"]

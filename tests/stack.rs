@@ -1,4 +1,4 @@
-use structured::{
+use forge::{
     error::{CapacityError, StackError},
     stack::Stack,
 };
